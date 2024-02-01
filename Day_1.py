@@ -1,0 +1,1 @@
+print("Day 1 of 30 days of code")
