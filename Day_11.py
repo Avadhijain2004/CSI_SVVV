@@ -36,7 +36,7 @@ print("Sorted array:")
 for i in arr:
 	print(i,end=" ")
       
-# for binary search
+# for Binary search
 K = 6
 result = binary_search(arr, K)
  
